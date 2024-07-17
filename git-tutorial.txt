@@ -1,4 +1,10 @@
 This is a git tutorial for noobs.
 
+<<<<<<< HEAD
 We are making additional changes to the file to show differences.
 
+||||||| 0964b48
+We are making additional changes to the file to show differences.
+=======
+We are infact making additional changes to the file to show differences.
+>>>>>>> a57a37e6bd1940ace3ff847c161bf71862e52055
